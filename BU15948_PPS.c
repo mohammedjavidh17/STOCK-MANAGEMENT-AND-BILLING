@@ -4,7 +4,7 @@
 #include <string.h>
 
 
-#define FILE_NAME "D:\BU15948_stocks.csv"
+#define FILE_NAME "D:\\BU15948_stocks.csv"
 void crt();
 void add(){
 	char id[10], name[100];
