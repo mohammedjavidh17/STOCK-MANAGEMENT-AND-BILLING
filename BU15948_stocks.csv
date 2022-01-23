@@ -1,0 +1,5 @@
+Prod_id, Prod_name, Quantity, Price
+1000, MASK, 498, 5
+1001, SANITIZER, 98, 50
+1002, GLOVES, 98, 10
+1003, EAR_PHONE, 25, 200
